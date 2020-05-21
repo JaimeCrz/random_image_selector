@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import Chance from 'chance';
 
-
 const ImageShow = () => {
 
   const [id, setId] = useState('2');
